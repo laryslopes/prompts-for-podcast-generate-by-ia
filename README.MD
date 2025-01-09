@@ -10,6 +10,6 @@
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Bing Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
